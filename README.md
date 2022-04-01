@@ -6,7 +6,10 @@
   <img src="./assets/Pink and Purple Memphis Gaming Channel Youtube Channel Art.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+<h1 align="center">Hello 👋, My name is Yeabsera Bekele. (Yeab)</h1>
+
+<h3 align="center">I am a Software Engineer working on  both Web and Mobile application development.</h3>
+ :wink:
  
 
  :books: I  learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">  
