@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/Pink and Purple Memphis Gaming Channel Youtube Channel Art.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="./assets/Pink and Purple Memphis Gaming Channel Youtube Channel Art.png" width="100%" height="65%" title="Intro Card" alt="Intro Card">
 </p>
 
 <h1 align="center">Hello 👋, My name is Tiliksew Mulugeta. (Yeab)</h1>
