@@ -6,7 +6,7 @@
   <img src="./assets/Pink and Purple Memphis Gaming Channel Youtube Channel Art.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-<h1 align="center">Hello 👋, My name is Yeabsera Bekele. (Yeab)</h1>
+<h1 align="center">Hello 👋, My name is Tiliksew Mulugeta. (Yeab)</h1>
 
 <h3 align="center">I am a Software Engineer working on  both Web and Mobile application development.</h3>
  :wink:
