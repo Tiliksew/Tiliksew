@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://www.canva.com/design/DAE8oYPwkmU/6rkRHw17uuxcv3CiQG_xCw/view?utm_content=DAE8oYPwkmU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
