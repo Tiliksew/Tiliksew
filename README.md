@@ -1,5 +1,5 @@
 # 💫 About Me:
-👤 Name: Tiliksew Mulugeta<br>🌍 Based in Ethiopia<br>💻 Role: Full-Stack Developer<br>🔭 I’m currently working on Flutter | React | NodeJs<br>🌍 Industry: Fintech (Ethiopia)<br>📚 Projects: Online Learning System, Photo Studio Management System<br>🌟 Interests: Building scalable applications and enhancing user experience
+👤 Tiliksew Mulugeta<br>🌍 Based in Ethiopia<br>💻 Role: Full-Stack Developer<br>🔭 I’m currently working on Flutter | React | NodeJs<br>🌍 Industry: Fintech (Ethiopia)<br>📚 Projects: Online Learning System, Photo Studio Management System<br>🌟 Interests: Building scalable applications and enhancing user experience
 
 
 ## 🌐 Socials:
